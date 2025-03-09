@@ -4,9 +4,9 @@ This is a portfolio (external) project from Codecademy's Data Science path. The 
 
 Included files are a dataset (CSV) file and a Python notebook, which contains the code and the results.
 
-The project also requested each one to write a blog post about his project and findings. I decided to use Github Pages for that. In order to do that:
-* I converted the python notebook to an html file using the nbconvert utility. The file `build_html.bat` runs the conversion.
-* I pruned from the html file the code segments and added a small css file for design. This resides in the `docs` folder.
+The project also requested each one to write a blog post about his project and findings. I decided to create the post by converting the Python notebook to an HTML file, and to display it via the Github Pages service. In order to do that:
+* I converted the python notebook to an html file using the `nbconvert` utility. The file `build_html.bat` runs the conversion.
+* I pruned from the html file the code segments and added a small css file for design. These reside in the `docs` folder.
 * I enabled Github Pages for the current repository at Github.
 
 The blog post can be viewed at the Github Pages url: https://ramtob.github.io/CDC-Portolio-0125-Life-Expectancy-and-GDP/
